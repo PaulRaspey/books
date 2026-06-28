@@ -14,3 +14,9 @@ A sequence of four books.
 ## Novels
 
 - *INSTEAD*
+
+## Copyright
+
+© 2026 Paul Raspey. All rights reserved.
+
+These works may not be reproduced, distributed, or adapted, in whole or in part, without the express written permission of the author. See [LICENSE](LICENSE) for the full notice.
