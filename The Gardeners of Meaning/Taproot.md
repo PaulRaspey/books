@@ -1,6 +1,8 @@
-THE GARDENERS OF MEANING · BOOK FOUR
+# TAPROOT
 
-*Taproot*
+*a novel*
+
+*book four of four · the Gardeners of Meaning*
 
 ---
 
